@@ -1,0 +1,11 @@
+{
+  "name": "@tscircuit/schematic-layout-utils",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
